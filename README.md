@@ -1,5 +1,5 @@
 
-# **PHILOSOPHERS
+# **PHILOSOPHERS**
 # *Gestion de la concurrence avec threads*
 
 Ce projet est une implémentation du problème classique des *Dining Philosophers*, utilisé pour introduire les difficultés de la **programmation concurrente** et de la **synchronisation des threads**.
