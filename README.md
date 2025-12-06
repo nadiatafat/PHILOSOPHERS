@@ -59,7 +59,3 @@ Arguments :
 ```
 ./philo nbr_philos time_to_die time_to_eat time_to_sleep [nbr_meals]
 ```
-
----
-
-Si tu veux une version encore plus courte, plus technique, ou avec un schéma des threads, je te le fais aussi.
